@@ -1,0 +1,9 @@
+﻿Name,Quantity,Component
+"K3, K1, K4",3," Relay SPDT"
+"Bat3",1,"4 batteries, AA, no 1.5V Battery"
+"P3",1,"6.9 , 1.6  Power Supply"
+"L3, L1, L4",3," Light bulb"
+"Rpot1, Rpot2, Rpot3, Rpot6",4,"250 kΩ Potentiometer"
+"U5",1," Arduino Uno R3"
+"U6",1," LCD 16 x 2"
+"R2",1,"220 Ω Resistor"
